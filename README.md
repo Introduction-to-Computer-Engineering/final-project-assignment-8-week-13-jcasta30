@@ -6,11 +6,11 @@
 ### Signals: 
 1. Configured the OUT of the built-in function generator on the workstation. 
    
-   URL:  
+   URL:  https://imgur.com/gallery/n9Zj0Kd
 
 2. Configured the standalone Rigol function generator properly onto the oscilloscope. 
    
-   URL:
+   URL: https://imgur.com/gallery/HaW4E5u
    
 3. Wrote a one-line micro:bit program to set an analog pin to emit PWM pulses, and captured the signal. 
    
