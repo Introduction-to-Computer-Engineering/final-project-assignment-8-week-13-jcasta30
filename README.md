@@ -1,7 +1,7 @@
 # CPE 1040 - Introduction to Computer Engineering
 # Assignment 8
 
-### Visualize Simple Continuous Signals: 
+## Visualize Simple Continuous Signals: 
 #### The following signals were visualized, using the Auto regime and default settings (trigger on a rising edge on CH1):
 
 #### a. Configured the OUT of the built-in function generator on the workstation. 
@@ -30,7 +30,7 @@
    
    Video URL: https://imgur.com/gallery/RSmr2Qx
    
-### I2C Warmup:
+## I2C Warmup:
 1Q. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
 
 #### 1A: I2C is intended to allow multiple "slave" chips to communicate with one or more "master" chips (allowing more than one master to communicate with all devices on the bus), only intended for short distance communications within a single device, and it only requires two signal wires to exchange information. Those two wires can support up to 1008 slave devices. The UART at either end is relatively complex to accurately implement in software if necessary. Most UART devices only support a certain set of fixed baud rates, and the highest of these is usually around 230400 bits/second.A drawback of SPI is the number of pins required, connecting a single master to a single slave with an SPI bus requires four lines; each additional slave requires one additional chip select I/O pin on the master. Also, the large amount of connections for each device can make routing signals more difficult in tight PCB layout situations.
@@ -55,7 +55,7 @@
 
 #### 6A:
 
-### First Steps with I2C:
+## First Steps with I2C:
 #### 1. In a loop, configured the micro:bit to write a number to some arbitrary I2C address. Then, captured an I2C frame on the oscilloscope (Picture below).
    
     a. What frame did you capture?
