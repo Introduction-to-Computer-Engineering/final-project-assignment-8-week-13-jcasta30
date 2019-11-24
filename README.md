@@ -81,7 +81,7 @@ Link to code file: [Here](here.js)
 
 (Address) Accelerometer:
 
-      Unsigned:
+Unsigned:
       
          Q: What values do you read?
          
@@ -97,7 +97,7 @@ Link to code file: [Here](here.js)
          
    Oscilloscope Display:
    
-      Signed:
+Signed:
       
          Q: What values do you read?
          
@@ -115,7 +115,7 @@ Link to code file: [Here](here.js)
    
 (Address) Magnetometer:
 
-      Unsigned:
+Unsigned:
       
          Q: What values do you read?
          
@@ -131,7 +131,7 @@ Link to code file: [Here](here.js)
          
    Oscilloscope Display:
    
-      Signed:
+Signed:
       
          Q: What values do you read?
          
