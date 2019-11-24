@@ -79,6 +79,7 @@ Link to code file: [Here](here.js)
     
     c. Scroll the values on the LED matrix.
 
+
 (Address) Accelerometer:
 
 Unsigned:
@@ -113,6 +114,7 @@ Signed:
          
    Oscilloscope Display:
    
+
 (Address) Magnetometer:
 
 Unsigned:
