@@ -1,8 +1,6 @@
 # CPE 1040 - Introduction to Computer Engineering
 # Assignment 8
 
-## Project Write-Ups
-
 ### Signals: 
 The following signals were visualized, using the Auto regime and default settings (trigger on a rising edge on CH1):
 
