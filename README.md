@@ -16,19 +16,19 @@
 
    Link to code file: [Here](here.js)
    
-   Video URL:
+   Video URL: https://imgur.com/gallery/NOSbxNj
    
 #### d. Wrote a loop that varies the duty cycle, up and down, between 5% and 95%, in steps of 5%.
 
    Link to code file: [Here](here.js)
    
-   Video URL:
+   Video URL: https://imgur.com/gallery/KbkGT4m
 
 #### e. Explored the other servo function, using the oscilloscope, and wrote a small program to demo the operation. 
 
    Link to code file: [Here](here.js)
    
-   Video URL:
+   Video URL: https://imgur.com/gallery/RSmr2Qx
    
 ### I2C Warmup:
 1Q. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
