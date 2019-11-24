@@ -90,11 +90,11 @@ Link to code file: [Here](here.js)
          
          A:
       
-         Link to code file: [Here](here.js)
+   Link to code file: [Here](here.js)
          
-         Video URL: https://imgur.com/gallery/KfYUEAf
+   Video URL: https://imgur.com/gallery/KfYUEAf
          
-         Oscilloscope Display:
+   Oscilloscope Display:
    
       Signed:
       
@@ -106,11 +106,11 @@ Link to code file: [Here](here.js)
          
          A:
    
-         Link to code file: [Here](here.js)
+   Link to code file: [Here](here.js)
          
-         Video URL: https://imgur.com/gallery/JK22Uvj
+   Video URL: https://imgur.com/gallery/JK22Uvj
          
-         Oscilloscope Display:
+   Oscilloscope Display:
    
 (Address) Magnetometer:
 
@@ -124,11 +124,11 @@ Link to code file: [Here](here.js)
          
          A:
    
-         Link to code file: [Here](here.js)
+   Link to code file: [Here](here.js)
          
-         Video URL: https://imgur.com/gallery/iXi7dsY
+   Video URL: https://imgur.com/gallery/iXi7dsY
          
-         Oscilloscope Display:
+   Oscilloscope Display:
    
       Signed:
       
@@ -140,8 +140,8 @@ Link to code file: [Here](here.js)
          
          A:
    
-         Link to code file: [Here](here.js)
+   Link to code file: [Here](here.js)
          
-         Video URL: https://imgur.com/gallery/mBPBcoF
+   Video URL: https://imgur.com/gallery/mBPBcoF
          
-         Oscilloscope Display:
+   Oscilloscope Display:
