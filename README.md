@@ -2,29 +2,29 @@
 # Assignment 8
 
 ### Visualize Simple Continuous Signals: 
-The following signals were visualized, using the Auto regime and default settings (trigger on a rising edge on CH1):
+#### The following signals were visualized, using the Auto regime and default settings (trigger on a rising edge on CH1):
 
-a. Configured the OUT of the built-in function generator on the workstation. 
+#### a. Configured the OUT of the built-in function generator on the workstation. 
    
    Video URL:  https://imgur.com/gallery/n9Zj0Kd
 
-b. Configured the standalone Rigol function generator properly onto the oscilloscope.
+#### b. Configured the standalone Rigol function generator properly onto the oscilloscope.
    
    Video URL: https://imgur.com/gallery/HaW4E5u
    
-c. Wrote a one-line micro:bit program to set an analog pin to emit PWM pulses.
+#### c. Wrote a one-line micro:bit program to set an analog pin to emit PWM pulses.
 
    Link to code file: [Here](here.js)
    
    Video URL:
    
-d. Wrote a loop that varies the duty cycle, up and down, between 5% and 95%, in steps of 5%.
+#### d. Wrote a loop that varies the duty cycle, up and down, between 5% and 95%, in steps of 5%.
 
    Link to code file: [Here](here.js)
    
    Video URL:
 
-e. Explored the other servo function, using the oscilloscope, and wrote a small program to demo the operation. 
+#### e. Explored the other servo function, using the oscilloscope, and wrote a small program to demo the operation. 
 
    Link to code file: [Here](here.js)
    
