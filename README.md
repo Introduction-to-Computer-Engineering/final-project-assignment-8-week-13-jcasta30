@@ -4,25 +4,33 @@
 ## Project Write-Ups
 
 ### Signals: 
-1. Configured the OUT of the built-in function generator on the workstation. 
-   
-   URL:  https://imgur.com/gallery/n9Zj0Kd
+The following signals were visualized, using the Auto regime and default settings (trigger on a rising edge on CH1):
 
-2. Configured the standalone Rigol function generator properly onto the oscilloscope. 
+a. Configured the OUT of the built-in function generator on the workstation. 
    
-   URL: https://imgur.com/gallery/HaW4E5u
-   
-3. Wrote a one-line micro:bit program to set an analog pin to emit PWM pulses, and captured the signal. 
-   
-   URL:
-   
-4. Wrote a loop that varies the duty cycle, up and down, between 5% and 95%, in steps of 5%. Then, read on the oscilloscope what the period    of the base wave was. 
-   
-   URL:
+   Video URL:  https://imgur.com/gallery/n9Zj0Kd
 
-5. Explored the other servo function, using the oscilloscope, and wrote a small program to demo the operation. 
+b. Configured the standalone Rigol function generator properly onto the oscilloscope.
    
-   URL:
+   Video URL: https://imgur.com/gallery/HaW4E5u
+   
+c. Wrote a one-line micro:bit program to set an analog pin to emit PWM pulses.
+
+   Link to file: [Here](here.js)
+   
+   Video URL:
+   
+d. Wrote a loop that varies the duty cycle, up and down, between 5% and 95%, in steps of 5%.
+
+   Link to file: [Here](here.js)
+   
+   Video URL:
+
+e. Explored the other servo function, using the oscilloscope, and wrote a small program to demo the operation. 
+
+   Link to file: [Here](here.js)
+   
+   Video URL:
    
 ### I2C warmup:
 1Q. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
