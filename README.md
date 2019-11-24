@@ -92,7 +92,7 @@ Link to code file: [Here](here.js)
       
          Link to code file: [Here](here.js)
          
-         Video URL:
+         Video URL: https://imgur.com/gallery/KfYUEAf
          
          Oscilloscope Display:
    
@@ -108,7 +108,7 @@ Link to code file: [Here](here.js)
    
          Link to code file: [Here](here.js)
          
-         Video URL:
+         Video URL: https://imgur.com/gallery/JK22Uvj
          
          Oscilloscope Display:
    
@@ -126,7 +126,7 @@ Link to code file: [Here](here.js)
    
          Link to code file: [Here](here.js)
          
-         Video URL:
+         Video URL: https://imgur.com/gallery/iXi7dsY
          
          Oscilloscope Display:
    
@@ -142,6 +142,6 @@ Link to code file: [Here](here.js)
    
          Link to code file: [Here](here.js)
          
-         Video URL:
+         Video URL: https://imgur.com/gallery/mBPBcoF
          
          Oscilloscope Display:
