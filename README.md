@@ -1,7 +1,7 @@
 # CPE 1040 - Introduction to Computer Engineering
 # Assignment 8
 
-### Signals: 
+### Visualize Simple Continuous Signals: 
 The following signals were visualized, using the Auto regime and default settings (trigger on a rising edge on CH1):
 
 a. Configured the OUT of the built-in function generator on the workstation. 
@@ -14,23 +14,23 @@ b. Configured the standalone Rigol function generator properly onto the oscillos
    
 c. Wrote a one-line micro:bit program to set an analog pin to emit PWM pulses.
 
-   Link to file: [Here](here.js)
+   Link to code file: [Here](here.js)
    
    Video URL:
    
 d. Wrote a loop that varies the duty cycle, up and down, between 5% and 95%, in steps of 5%.
 
-   Link to file: [Here](here.js)
+   Link to code file: [Here](here.js)
    
    Video URL:
 
 e. Explored the other servo function, using the oscilloscope, and wrote a small program to demo the operation. 
 
-   Link to file: [Here](here.js)
+   Link to code file: [Here](here.js)
    
    Video URL:
    
-### I2C warmup:
+### I2C Warmup:
 1Q. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?
 
 1A:
@@ -55,14 +55,20 @@ e. Explored the other servo function, using the oscilloscope, and wrote a small 
 
 6A:
 
-### First steps with I2C:
-1. In a loop, configured the micro:bit to write a number to some arbitrary I2C address. Then, captured an I2C frame on the oscilloscope.
+### First Steps with I2C:
+1. In a loop, configured the micro:bit to write a number to some arbitrary I2C address. Then, captured an I2C frame on the oscilloscope (Picture below).
    
     a. What frame did you capture?
    
     b. What does the I2C write function do when there is nothing connected?
     
-    c. Is there a difference in what you capture if you write a number to one of the internal device addresses? 
+    c. Is there a difference in what you capture if you write a number to one of the internal device addresses?
+
+Link to code file: [Here](here.js)
+    
+(1)Picture of Oscilloscope Display:
+
+(1)Picture of Setup:
     
 2. Wrote a short program to read a number from the I2C devices on the micro:bit. For each device:
 
@@ -75,3 +81,39 @@ e. Explored the other servo function, using the oscilloscope, and wrote a small 
     d. What values do you read?
     
     e. Can you get different values by moving the micro:bit around?
+
+(Address) Accelerometer:
+
+      Unsigned:
+      
+         Link to code file: [Here](here.js)
+         
+         Video URL:
+         
+         Oscilloscope Display:
+   
+      Signed:
+   
+         Link to code file: [Here](here.js)
+         
+         Video URL:
+         
+         Oscilloscope Display:
+   
+(Address) Magnetometer:
+
+      Unsigned:
+   
+         Link to code file: [Here](here.js)
+         
+         Video URL:
+         
+         Oscilloscope Display:
+   
+      Signed:
+   
+         Link to code file: [Here](here.js)
+         
+         Video URL:
+         
+         Oscilloscope Display:
