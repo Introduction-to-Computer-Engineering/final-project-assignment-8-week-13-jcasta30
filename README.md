@@ -69,6 +69,7 @@ Link to code file: [Here](here.js)
 (1)Picture of Oscilloscope Display:
 
 (1)Picture of Setup:
+
     
 2. Wrote a short program to read a number from the I2C devices on the micro:bit. For each device:
 
