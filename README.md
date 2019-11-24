@@ -74,17 +74,21 @@ Link to code file: [Here](here.js)
 
     a. Try all three addresses. (Bonus for a cogent argument about why there are three.)
     
-    b. Try signed and unsigned single bype integers.
+    b. Try signed and unsigned single byte integers.
     
     c. Scroll the values on the LED matrix.
-    
-    d. What values do you read?
-    
-    e. Can you get different values by moving the micro:bit around?
 
 (Address) Accelerometer:
 
       Unsigned:
+      
+         Q: What values do you read?
+         
+         A:
+    
+         Q: Can you get different values by moving the micro:bit around?
+         
+         A:
       
          Link to code file: [Here](here.js)
          
@@ -93,6 +97,14 @@ Link to code file: [Here](here.js)
          Oscilloscope Display:
    
       Signed:
+      
+         Q: What values do you read?
+         
+         A:
+    
+         Q: Can you get different values by moving the micro:bit around?
+         
+         A:
    
          Link to code file: [Here](here.js)
          
@@ -103,6 +115,14 @@ Link to code file: [Here](here.js)
 (Address) Magnetometer:
 
       Unsigned:
+      
+         Q: What values do you read?
+         
+         A:
+    
+         Q: Can you get different values by moving the micro:bit around?
+         
+         A:
    
          Link to code file: [Here](here.js)
          
@@ -111,6 +131,14 @@ Link to code file: [Here](here.js)
          Oscilloscope Display:
    
       Signed:
+      
+         Q: What values do you read?
+         
+         A:
+    
+         Q: Can you get different values by moving the micro:bit around?
+         
+         A:
    
          Link to code file: [Here](here.js)
          
