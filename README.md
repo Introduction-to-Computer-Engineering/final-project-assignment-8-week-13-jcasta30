@@ -14,19 +14,19 @@
    
 #### c. Wrote a one-line micro:bit program to set an analog pin to emit PWM pulses.
 
-   Link to code file: [Here](here.js)
+   Link to code file: [Here](pwm-pulses.js)
    
    Video URL: https://imgur.com/gallery/NOSbxNj
    
 #### d. Wrote a loop that varies the duty cycle, up and down, between 5% and 95%, in steps of 5%.
 
-   Link to code file: [Here](here.js)
+   Link to code file: [Here](cycle-5-percent.js)
    
    Video URL: https://imgur.com/gallery/KbkGT4m
 
 #### e. Explored the other servo function, using the oscilloscope, and wrote a small program to demo the operation. 
 
-   Link to code file: [Here](here.js)
+   Link to code file: [Here](other-servo.js)
    
    Video URL: https://imgur.com/gallery/RSmr2Qx
    
@@ -70,7 +70,7 @@
     
     #### A:
 
-Link to code file: [Here](here.js)
+Link to code file: [Here](arbitrary-address.js)
     
 (1)Picture of Oscilloscope Display:
 
@@ -98,7 +98,7 @@ Link to code file: [Here](here.js)
          
          A:
       
-   Link to code file: [Here](here.js)
+   Link to code file: [Here](accelerometer-unsigned.js)
          
    Video URL: https://imgur.com/gallery/KfYUEAf
          
@@ -114,7 +114,7 @@ Link to code file: [Here](here.js)
          
          A:
    
-   Link to code file: [Here](here.js)
+   Link to code file: [Here](accelerometer-signed.js)
          
    Video URL: https://imgur.com/gallery/JK22Uvj
          
@@ -133,7 +133,7 @@ Link to code file: [Here](here.js)
          
          A:
    
-   Link to code file: [Here](here.js)
+   Link to code file: [Here](magnetometer-unsigned.js)
          
    Video URL: https://imgur.com/gallery/iXi7dsY
          
@@ -149,7 +149,7 @@ Link to code file: [Here](here.js)
          
          A:
    
-   Link to code file: [Here](here.js)
+   Link to code file: [Here](magnetometer-signed.js)
          
    Video URL: https://imgur.com/gallery/mBPBcoF
          
