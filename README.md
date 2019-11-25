@@ -92,7 +92,7 @@ Link to code file: [Here](arbitrary-address.js)
    #### Displayed Below
 
 
-#### (Address) Accelerometer:
+### (Address) Accelerometer:
 
 #### Unsigned:
       
@@ -127,7 +127,7 @@ Link to code file: [Here](arbitrary-address.js)
    Oscilloscope Display: ![Accelerometer-Signed Display](Acc-signed.png)
    
 
-#### (Address) Magnetometer:
+### (Address) Magnetometer:
 
 #### Unsigned:
       
