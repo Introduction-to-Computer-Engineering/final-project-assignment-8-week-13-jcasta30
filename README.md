@@ -60,15 +60,15 @@
    
    1Q. What frame did you capture?
     
-   1A: The address frame was captured. Identified by the first falling edge of the SDA signal.
+   #### 1A: The address frame was captured. Which can be identified by the first falling edge of the SDA signal.
    
    2Q. What does the I2C write function do when there is nothing connected?
     
-   2A: In normal eyes nothing, however deep down the master will try to initiate a transfer, but the slave will not provide confirming feedback, and so the master will stop transmission.
+   #### 2A: In normal eyes nothing, however deep down the master will try to initiate a transfer, but the slave will not provide confirming feedback, and so the master will stop transmission.
     
    3Q. Is there a difference in what you capture if you write a number to one of the internal device addresses?
     
-   3A: There is a difference in what you capture, because one writes to an acutal internal device address, which will receive feedback from the slave, and thus an address frame and a data frame. On the other hand, for a non-internal device address (arbitrary address) there is no slave feedback, just a data frame. 
+   #### 3A: There is a difference in what you capture, because one writes to an acutal internal device address, which will receive feedback from the slave, and thus an address frame and a data frame. On the other hand, for a non-internal device address (arbitrary address) there is no slave feedback, just a data frame. 
 
 Link to code file: [Here](arbitrary-address.js)
     
@@ -81,15 +81,15 @@ Link to code file: [Here](arbitrary-address.js)
 
    a. Try all three addresses. (Bonus for a cogent argument about why there are three.)
     
-   There is basically one address for each device: 0x19 for the accelerometer, and 0x1E for the magnetometer. But two more addresses are displayed (0x32/0x33 with the Accelerometer) and (0x3C/0x3D with the Magnetometer) because these are added at the end, to either respectively write or read to that address, they are added in binary.
+   #### There is basically one address for each device: 0x19 for the accelerometer, and 0x1E for the magnetometer. But two more addresses are displayed (0x32/0x33 with the Accelerometer) and (0x3C/0x3D with the Magnetometer) because these are added at the end, to either respectively write or read to that address, they are added in binary.
     
    b. Try signed and unsigned single byte integers.
     
-   Displayed Below
+   #### Displayed Below
       
    c. Scroll the values on the LED matrix.
     
-   Displayed Below
+   #### Displayed Below
 
 
 #### (Address) Accelerometer:
