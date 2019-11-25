@@ -74,7 +74,7 @@ Link to code file: [Here](arbitrary-address.js)
     
 (1)Picture of Oscilloscope Display: ![Arbitrary Address Display](4i-aa.png)
 
-(1)Picture of Setup:
+(1)Picture of Setup: ![Arbitrary Address Display Setup](setup-img.png)
 
     
 #### 2. Wrote a short program to read a number from the I2C devices on the micro:bit. For each device:
@@ -102,7 +102,7 @@ Link to code file: [Here](arbitrary-address.js)
          
    Video URL: https://imgur.com/gallery/KfYUEAf
          
-   Oscilloscope Display:
+   Oscilloscope Display: ![Accelerometer-Unsigned Display](Acc-unsigned.png)
    
 #### Signed:
       
@@ -118,7 +118,7 @@ Link to code file: [Here](arbitrary-address.js)
          
    Video URL: https://imgur.com/gallery/JK22Uvj
          
-   Oscilloscope Display:
+   Oscilloscope Display: ![Accelerometer-Signed Display](Acc-signed.png)
    
 
 #### (Address) Magnetometer:
@@ -137,7 +137,7 @@ Link to code file: [Here](arbitrary-address.js)
          
    Video URL: https://imgur.com/gallery/iXi7dsY
          
-   Oscilloscope Display:
+   Oscilloscope Display: ![Magnetometer-Unsigned Display](mag-unsigned-true.png)
    
 #### Signed:
       
@@ -153,4 +153,4 @@ Link to code file: [Here](arbitrary-address.js)
          
    Video URL: https://imgur.com/gallery/mBPBcoF
          
-   Oscilloscope Display:
+   Oscilloscope Display:![Magnetometer-Signed Display](mag-signed-true.png)
