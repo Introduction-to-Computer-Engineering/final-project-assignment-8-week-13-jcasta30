@@ -72,7 +72,7 @@
 
 Link to code file: [Here](arbitrary-address.js)
     
-(1)Picture of Oscilloscope Display:
+(1)Picture of Oscilloscope Display: ![Arbitrary Address Display](4i-aa.png)
 
 (1)Picture of Setup:
 
